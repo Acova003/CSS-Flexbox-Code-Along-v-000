@@ -13,6 +13,7 @@ header {
 main {
   align-items: center;
   justify-content: center;
+  flex-flow: row wrap;
   display: flex;
   background-color: #92C9D5;
   width: 100%;
